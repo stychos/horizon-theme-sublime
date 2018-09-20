@@ -1,0 +1,8 @@
+{
+    "platforms": ["*"],
+    "description": "Horizon color scheme for Sublime Text",
+    "dependencies": [],
+    "url": "https://github.com/stychos/horizon-theme-sublime",
+    "sublime_text": "*",
+    "version": "0.1"
+}
